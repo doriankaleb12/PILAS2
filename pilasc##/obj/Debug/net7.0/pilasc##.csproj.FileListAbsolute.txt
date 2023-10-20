@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\bin\Debug\net7.0\pilasc##.exe
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\bin\Debug\net7.0\pilasc##.deps.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\bin\Debug\net7.0\pilasc##.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\bin\Debug\net7.0\pilasc##.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\bin\Debug\net7.0\pilasc##.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\refint\pilasc##.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\pilasc##.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\pilasc##\obj\Debug\net7.0\ref\pilasc##.dll
